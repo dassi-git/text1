@@ -1,4 +1,4 @@
-# this is tha heatder
+# this is tha header
 
 same text
 goood bay
